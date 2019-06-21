@@ -1,0 +1,1 @@
+dfef680e3993c374e0c1ad458ad769de  cosmos_vnfd.yaml
